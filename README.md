@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Klaria Andrade Martins 
+- 👀 I work on Wisebyte, in the job of data engeenir 
+- 🌱 I’m currently learning how to implement deploy models of machine learning on SageMaker
