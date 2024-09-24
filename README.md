@@ -1,13 +1,11 @@
 # Oi! Seja bem-vindo(a)!
-Sou uma estudante de Sistemas de Informação na UFU. No momento, estou trabalhando como engenheira de dados jr. na empresa wisebyte.
+Sou estudante de Sistemas de Informação na UFU. No momento, estou trabalhando como Engenheira de Dados na empresa wisebyte.
 
-- 🔭 Atualmente Engenheira de Dados Júnior na empresa Wisebyte.
-- 🌱 Estou estudando Machine Leaning e Deep Learning.
+- 🔭 Atualmente Engenheira de Dados na empresa Wisebyte.
 - 📫 Contate-me: Klariaandrade@gmail.com
 - 😄 Pronome: Ela/Dela
 
 # Hobbies
-
 - 🎶 Escutar música e ler livros.
 - 🌱 Viagens
 
