@@ -8,11 +8,3 @@ Sou estudante de Sistemas de Informação na UFU. No momento, estou trabalhando 
 # Hobbies
 - 🎶 Escutar música e ler livros.
 - 🌱 Viagens
-
-# Git Status
-<div align="left">
-    <a href="https://github.com/Klaria-Data">
-        <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Klaria-Data&layout=compact&langs_count=7&theme=dark"/>
-    </a>
-</div>
-
